@@ -1,2 +1,2 @@
 [# first-website](https://leeseungjin07.github.io/first-website/)
-go to naver.com
+When you log in, you will be connected to naver.com.
